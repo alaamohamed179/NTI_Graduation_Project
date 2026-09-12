@@ -3,4 +3,5 @@ numpy
 matplotlib.pyplot
 seaborn
 sklearn
+streamlit
 jupyter
